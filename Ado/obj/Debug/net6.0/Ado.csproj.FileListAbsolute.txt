@@ -1,0 +1,15 @@
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\bin\Debug\net6.0\Ado.deps.json
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\bin\Debug\net6.0\Ado.dll
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\bin\Debug\net6.0\Ado.pdb
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.csproj.AssemblyReference.cache
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.AssemblyInfoInputs.cache
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.AssemblyInfo.cs
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.csproj.CoreCompileInputs.cache
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.dll
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\refint\Ado.dll
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.pdb
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\ref\Ado.dll
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\bin\Debug\net6.0\Dominio.dll
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Coringa\Desktop\C#\Projeto01\Ado\obj\Debug\net6.0\Ado.csproj.CopyComplete

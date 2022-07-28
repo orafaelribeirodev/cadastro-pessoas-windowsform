@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "piaOz+nEYm1kTPTA4MeQTj9VU1lXHXpe2uKB/1RMk7ewruIntJADYxxN5qpoAkYaLokM+lc2/lDOrZv2yDHWXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coringa\\Desktop\\C#\\Projeto01\\Projeto01\\Projeto01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coringa\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\Coringa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
